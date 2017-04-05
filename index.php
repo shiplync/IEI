@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
+    
+	<head>        
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<title>IEI</title>
+		<meta name="description" content="Intercontinental Export-Import (IEI Plastics) Total Recycling Solutions, deals with purchasing and selling of post-industrial recycled plastics on the open market both domestically and internationally">
+		<meta name="Keywords" content="SirNiak, Total Recycling Solutions , Products, Lumps & Chunks, Dust Collector , Floor Sweeping, Off Grade, Transition, Experimental Material, Lab Scrap, Fiber Waste, Film Waste, Molded Parts, Assemble Parts, Sprues , Runners, Automotive Scrap, Textile Scrap, Contaminated Polymers, Polymer Waste ,Producers, Textile Industry,  Automotive Industry, Cardboard Waste, Gaylord Boxes, Paper Waste, Wood Pallet Wast, Plastic Pallet Waste, Sustainability, Minority Owned, Minimization of Landfill, Zero Waste Program, Environmental Solutions, Grinding, Shredding, Grinders, Shredders, Pellitize, Pellets, ABS, Nylon, Poly Propylene, Feedstock, Regrind, Produciton Scrap, Plastic Resin, Automotive Parts, Plastic Waste, Recycling Solutions, Closed Loop, Carpet Waste, Plastic Streams, Olephins, Polyester Columbia MD, ">
+		
+		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>	
+	</head>
+	
+<body>
+	<div id="wrapper">
+		
+		<div class="bodyfont" id="topbar">
+			
+				<div id="htext">Select Language</div>
+				<img id="brwslogo" src="Images/image3.png"/>
+				<div id="hdivider">|</div>
+				<img id="Linlogo" src="Images/image.png" />
+				<img id="fblogo" src="Images/image1.png"/>
+				<div id="hclmtxt">Case Studies</div>
+			
+		</div>
+		<div class="header headerfont">
+			<div id="mylogo">
+				<img id="mylogoimg" src="Images/ieilogo.jpg" width="140px" height="80px"><br>
+				<div class="bodyfont" id="logotagline">Putting waste to good use for over 30 years</div>
+			</div>
+			<div class="bodyfont" id="menu">
+				<ul id="menulist">
+					<li><a href="#">About</a></li>
+					<li><a href="#">Products</a></li>
+					<li><a href="#">News & Media</a></li>
+					<li><a href="#">Locations</a></li>
+					<li><a href="#">Contact Us</a></li>
+					<li><a><img src="Images/magnifyingglass.jpg" width="32px" height="30px" style="vertical-align:middle;"></a></li>
+				</ul>
+			</div>
+			<div id="nav-icon1">
+			  <span></span>
+			  <span></span>
+			  <span></span>
+			</div>
+			<div class="bodyfont" id='cssmenu'>
+				<ul>
+				   <li ><a href="#Products">Products</a></li>
+				   <li><a href="#About">About</a></li>			   			  
+				   <li class='last'><a href="#Services">Services</a></li>
+				   <li ><a href="#Locations">Locations</a></li>
+				   <li><a href="#ContactUs">Contact Us</a></li>			 
+				</ul>
+			</div>
+		</div>
+		
+		<div id="topics">
+			<div class="container" style="margin-top:1.5%">
+				<div id="casestudytopic">
+					<div class="bodyfont" id="casestudy">
+						<p   style="font-weight:500;font-size:20px;margin-left:5%;">We believe that</p>
+						<i   style="margin-left:5%;" class="fa fa-quote-left fa-3x" aria-hidden="true"></i>
+						<div class="bodyfont" id="casestudytxt">Going Green is more than<br> just a color."</div>	
+						<div class="bodyfont" id="casestudytxtmob">Going Green<br> is more than<br> just a color."</div>
+						<button id="btncasestudy">Case Studies</button>
+					</div>
+				</div>
+				
+				<div id="topic1">
+					<div class="topicdivs" id="sustainability">
+						<div class="topicimg"><img class="topicimgsrc" src="Images/customizedsustainabilityprograms.jpg"></div>
+						<p class="bodyfont topicheaders">Customized Sustainability<br> Programs</p>
+						<button class="btntopics">Discover ></button>
+					</div>
+					<div class="topicdivs" id="grinding">
+							<div class="topicimg"><img class="topicimgsrc" src="Images/grinding&shredding.jpg"></div>
+							<p class="bodyfont topicheaders">Grinding & Shredding</p>
+							<button class="btntopics">Discover ></button>
+					</div>
+				</div>
+			</div>
+			<div class="container" style="margin-top: 0.5%;">
+				<div id="topic2">
+					<div class="topicdivs" id="blending">
+						<div class="topicimg"><img class="topicimgsrc" src="Images/blending.jpg"></div>
+						<p class="bodyfont topicheaders">Blending</p>
+						<button class="btntopics">Discover ></button>
+					</div>
+					<div class="topicdivs" id="drying">
+						<div class="topicimg"><img class="topicimgsrc" src="Images/drying&baling.jpg"></div>
+						<p class="bodyfont topicheaders">Drying & Baling</p>
+						<button class="btntopics">Discover ></button>
+					</div>					
+				</div>
+				<div id="topic3">
+					<div class="topicdivs" id="productdevelopment">
+						<div class="topicimg"><img class="topicimgsrc" src="Images/productdevelopment.jpg"></div>
+						<p class="bodyfont topicheaders">Product Development</p>
+						<button class="btntopics">Discover ></button>
+					</div>
+					<div class="topicdivs" id="productlifecycle">
+						<div class="topicimg"><img class="topicimgsrc" src="Images/productlifecycle.jpg"></div>
+						<p class="bodyfont topicheaders">Product Lifecycle</p>
+						<button class="btntopics">Discover > </button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container" style="margin-top:30px;">
+			<div id="productoverview"><img src="Images/seeourproducts.jpg" width="100%" height="auto">
+			<p class="headtext" >See our products.</p><p class="subtext" >Browse what we’re offering in the following categories:<br>
+			plastics, films, additives, and adhesives.</p><br><p class="subtext1">Learn more > </p></div>
+			
+			<div id="workoverview"><img src="Images/seewhatwecando.jpg" width="100%" height="auto"><p class="headtext">See what we can do.</p><p class="subtext">From product development to product destruction, we cover the full range and scope of the plastics industry</p><br><p class="subtext1">Learn more > </p></div>			
+
+		</div>
+		
+		<div class="container" >
+			<div id="worldmap"><img src="Images/seeourlocations.jpg" width="100%" height="auto"></div>
+			<div id="globalposition">
+				
+				<p>See where we are on the global map.<br><span>We’ve expanded our business<br>
+					nationally and internationally over the<br>
+					course of our 30 years.</span></p><br>
+				<button id="btnposition" >Take a look at our global presence</button>
+					
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+		
+		<div class="container bodyfont" style="text-align:left;">
+			<div  id="infodiv"> 
+				<div id="serviceinfo">
+					<div id="serviceinfoimg"></div>
+					<div id="services">
+						<p>Services &gt </p>
+						<ul class="servicelist">	
+							<li>Customized Sustainability Programs</li>
+							<li>Grinding / Shredding</li>
+							<li>Blending</li>
+							<li>Drying / Baling</li>
+							<li>Product Development</li>
+							<li>Product Lifecycle</li>
+						</ul>
+					</div>
+					<div id="serviceinfoimgmob"></div>
+				</div>
+				<div id="productinfo">
+					<div id="products">
+						<p>Products &gt </p>
+						<div id="productimg">
+							<img src="Images/productsimageforfooternav.jpg" width="95%" height="auto"></div>
+						<ul class="servicelist">
+							<li>Plastics</li>
+							<li>Films</li>
+							<li>Additives</li>
+							<li>Adhesives</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="blogdiv">
+				<div id="bloginfo">
+					<p style="font-size:17px;">Blog &gt </p>
+					<p><span>Sept. 16, 2016</span> <br>
+						IEI hits the largest month in sales in
+						September 2016 with a increase of
+						10% over our last month					
+					</p>
+					<p><span>Sept. 02, 2016</span> <br>
+
+						In the winter of 2016, IEI plans to
+						incorporate another service and
+						product.
+					</p>
+				</div>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+		<div id="footerdivider">
+			<div class="bodyfont" id="dividertxt">Plastics Live Here</div>
+			<div class="bodyfont" id="dividertxtmob">Putting waste to good use for over 30 years</div>
+		
+		</div>
+		<footer class="bodyfont">
+			<div style="margin:-10px">
+					<ul type="disc" id="contactmenu">
+						<li>Careers</li>
+						<li>&bullet;</li>
+						<li>Contact Us</li>
+						<li>&bullet;</li>
+						<li>Partnership request</li>
+					</ul>				
+			</div>
+			<div id="languageselect">
+				<div id="globeimg"><img src="Images/globe.jpg" width="25px" height="20px"></div>
+				<div id="globeimgtxt">Select Language</div>
+			</div>
+			<form id="searchform">
+				<input id="searchtxtbox" type="text" placeholder="Search" required >
+				<i id="filtersubmit" class="fa fa-search fa-2x"></i>
+			</form>
+		</footer>
+		<div id="logobar" class="bodyfont">
+			<div id="mylogofooter"><img src="Images/logofooter.png" width="100px" height="auto"></div>
+			<div style="float:right;margin-top:40px;">
+					<ul type="disc" id="ieipolicy" style="text-align: right;
+					margin-right: 32px;">
+						<li>Accessibility</li>
+						<li>&bullet;</li>
+						<li>Privacy Policy</li>
+						<li>&bullet;</li>
+						<li>Terms and Conditions</li>
+					</ul>	
+					<div id="ieicopyright" style="margin-right: 14px;">
+						© Copyright 1987-2016 Intercontinental Export Import, INC. All Rights Reserved.
+					</div>								
+			</div>
+		</div>
+		<div id="logobarmob">
+			<form id="searchformmob">
+				<input id="searchtxtbox" type="text" placeholder="Search" required>
+				<i id="filtersubmit" class="fa fa-search fa-2x"></i>
+			</form>
+			<div id="mylogofooter"><img src="Images/logofooter.png" width="100px" height="auto"></div>
+			<ul type="disc" id="ieipolicy" >
+						<li>Accessibility</li>
+						<li>&bullet;</li>
+						<li>Privacy Policy</li>
+						<li>&bullet;</li>
+						<li>Terms and Conditions</li>
+			</ul>
+			<div id="ieicopyright">
+						© Copyright 1987-2016 Intercontinental Export Import, INC. All Rights Reserved.
+			</div>	
+					
+		</div>
+		
+	</div>
+	
+<!--$('#filtersubmit').click(function() { 
+    alert('Searching for '+$('#filter').val());
+});-->
+	<script>		
+		$(document).ready
+		(
+			function() {    
+				$('#nav-icon1').click(function(){
+						$(this).toggleClass('open');
+						$( "#cssmenu" ).slideToggle( "slow", function() {
+			
+							});
+					});
+			}
+		);
+		
+	
+	</script>
+
+
+</body>
+</html>
